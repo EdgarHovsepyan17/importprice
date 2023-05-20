@@ -28,7 +28,7 @@ jQuery("document").ready(function () {
 			fob = 1000
 		}
 		else {
-			fob=gin*0.175
+			fob=gin*0.075
 		}
 
 		usgin=gin+fob+2500
